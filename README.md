@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello%20I'm%20Wondong&fontSize=40&fontAlign=center&textColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=blur&color=87CEFA&height=250&section=header&text=Hello%20I'm%20Wondong&fontSize=50&fontAlign=center&textColor=ffffff&animation=fadeIn)
+
 
 
 
