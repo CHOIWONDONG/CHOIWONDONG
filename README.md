@@ -1,4 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=venom)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello%20I'm%20Wondong&fontSize=40&fontAlign=center&textColor=ffffff)
+
+
+
+
+
+
 
 ## 군산대학교 / 컴퓨터소프트웨어특성화대학 / 25학번
 안녕하세요! 🙌 이제 막 소프트웨어 전공으로 대학생활을 시작한 1학년 최원동입니다.
