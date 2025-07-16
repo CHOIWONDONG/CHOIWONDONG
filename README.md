@@ -1,4 +1,5 @@
-https://capsule-render.vercel.app/api?type=blur&color=87CEFA&height=250&section=header&text=Thank%20you%20for%20your%20visit&fontSize=50&fontAlign=center&textColor=ffffff&animation=fadeIn
+https://capsule-render.vercel.app/api?type=blur&color=87CEFA&height=250&section=header&text=Thank%20you%20for%20your%20visit!&fontSize=50&fontAlign=center&textColor=ffffff&animation=fadeIn
+
 
 
 
